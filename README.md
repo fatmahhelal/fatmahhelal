@@ -10,10 +10,10 @@
 
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png" alt="js"> <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="jQuery"> <img height="40" src="https://img.icons8.com/color/452/nodejs.png" alt="node"><img height="40" src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/064fc70f-5df3-4333-b9d4-f6abe2f946de/react-wp-app8.png" alt="react">
 
-<img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"  alt="python" ><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" alt="Flask"><img height="40" src="https://img.icons8.com/ios/452/django.png" alt="django" >
+<img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"  alt="python" ><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" alt="Flask"><img height="40" src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png" alt="django" >
 
 
-<img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="SQL"><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="PSQL"><img height="42" src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MDB">
+<img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="SQL"><img height="40" src="https://buttercms.com/static/images/tech_banners/Flask.png" alt="PSQL"><img height="42" src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MDB">
 
 
 
