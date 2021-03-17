@@ -6,14 +6,14 @@
 
 <h1> Hi <img src="https://komarev.com/ghpvc/?username=fatmahhelal&color=blueviolet"/>! I'm Fatimah<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm good with:</h1>
 
-<img height="40" src="https://www.flaticon.com/svg/vstatic/svg/888/888909.svg?token=exp=1615312352~hmac=a436120221c3f84c1cdb7e28eea1f5ff" alt="html"> <img height="40" src="https://www.flaticon.com/svg/vstatic/svg/888/888897.svg?token=exp=1615312307~hmac=1ec7cbec5df5428a8b1dce7347336bcd" alt="CSS"> <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstarp"> 
+<img height="40" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" alt="html"> <img height="40" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" alt="CSS"> <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstarp"> 
 
-<img height="40" src="https://www.flaticon.com/svg/vstatic/svg/541/541509.svg?token=exp=1615312496~hmac=b2a355f1263e414bc91fe4ef0b332439" alt="js"> <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="jQuery"> <img height="40" src="https://img.icons8.com/color/452/nodejs.png" alt="node"><img height="40" src="https://www.flaticon.com/svg/vstatic/svg/973/973776.svg?token=exp=1615312541~hmac=2445d89d71515e3d11e785bb485cb6df" alt="react">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png" alt="js"> <img height="40" src="https://cdn.iconscout.com/icon/free/png-512/jquery-10-1175155.png" alt="jQuery"> <img height="40" src="https://img.icons8.com/color/452/nodejs.png" alt="node"><img height="40" src="https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/064fc70f-5df3-4333-b9d4-f6abe2f946de/react-wp-app8.png" alt="react">
 
-<img height="40" src="https://www.flaticon.com/svg/vstatic/svg/919/919852.svg?token=exp=1615312396~hmac=170950ae28067ba8938284eaf6ec9a91"  alt="python" ><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" alt="Flask"><img height="40" src="https://img.icons8.com/ios/452/django.png" alt="django" >
+<img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png"  alt="python" ><img height="40" src="https://cdn.iconscout.com/icon/free/png-256/flask-51-285137.png" alt="Flask"><img height="40" src="https://img.icons8.com/ios/452/django.png" alt="django" >
 
 
-<img height="40" src="https://www.flaticon.com/svg/vstatic/svg/3161/3161133.svg?token=exp=1615315196~hmac=2bf386dee6aa0862f3e892856c66f110" alt="SQL"><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="PSQL"><img height="42" src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MDB">
+<img height="40" src="https://cdn4.iconfinder.com/data/icons/logos-3/181/MySQL-512.png" alt="SQL"><img height="40" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="PSQL"><img height="42" src="http://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f4a5b21d-66fa-4885-92bf-c4e81c06d916/Image/e5eee315a17de0d7f56117077eb71fa9/mongo.png" alt="MDB">
 
 
 
