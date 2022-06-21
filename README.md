@@ -4,7 +4,7 @@
   <img src="https://i.imgur.com/5A22MNp.gif" />
 </p>
 
-<h1> Hi <img src="https://komarev.com/ghpvc/?username=fatmahhelal&color=blueviolet"/>! I'm Fatimah<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm good with:</h1>
+<h1> Hi <img src="https://komarev.com/ghpvc/?username=fatmahhelal&color=blueviolet"/>! I'm Fatimah, I'm good with:</h1>
 
 <img height="40" src="https://images.vexels.com/media/users/3/166383/isolated/preview/6024bc5746d7436c727825dc4fc23c22-html-programming-language-icon-by-vexels.png" alt="html"> <img height="40" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png" alt="CSS"> <img height="40" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/288_Sass-512.png" alt="SASS"> <img height="40" src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" alt="Bootstarp"> <img height="40" src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/tailwind-css.png" alt="tailwind"> 
 
